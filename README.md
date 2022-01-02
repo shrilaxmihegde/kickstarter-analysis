@@ -9,9 +9,9 @@ determine whether the length of a campaign contributes to its ultimate success o
 ### Purpose
  Use excel features to analyze the data and plot various trends. Within the exersise, i learned how to use;
    1. Convert ***Unix Timestamps*** in to month/day/year format.
-   2. How to create ***Pivot table*** and pivot chart based on the data.
+   2. How to create ***PIVOT table*** and pivot chart based on the data.
    3. Apply ***Statistical Formulas*** to identify outliers(mean, median, quartiles, box chart)
-   4. Use the ***Vlookup*** and ***countif*** forrmulas.
+   4. Use the ***VLOOKUP*** and ***COUNTIFS*** forrmulas.
 
 
 ## Analysis and Challenge
@@ -19,11 +19,7 @@ determine whether the length of a campaign contributes to its ultimate success o
 ### Analysis of Outcomes Based on Launch Date
 
 ![Theater Outcomes Based on Launch Date-pivot](/Resources/Theater_Outcomes_vs_Launch_pivot.png)
-
-
 ![Theater Outcomes Based on Launch Date](/Resources/Theater_Outcomes_vs_Launch.png)
-
-
 Based on the trends we can conclude that, Theater category campaigs are more successful in Spring months, compared to winter months.Although high number of failed also in May. It shows total 166 theater kickstarter campaign May month is the successful 
 and failuer which is the all other months.
 
