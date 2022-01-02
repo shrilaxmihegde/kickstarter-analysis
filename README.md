@@ -45,9 +45,11 @@ Another one, perent and subcategory in concatinated format. But the ask was to r
    2. This chart indicates, campaign success or failuer can be impacted by other factors like backers count, category and time of the campaign.
 
 - What are some limitations of this dataset?
+
 The dataset is just represention of the sample from a handful number of countries, and it might not be accurate representation of global trends.
 The data set has Goals and pledges amounts in various currencies and adjestments are the currency exchange rate has to be made to paint to accurate picture while comparing country statistics.
 
 - What are some other possible tables and/or graphs that we could create?
+
 We can create more graphs based on this data  by country, bakers_count,category and subcategory to view the campaign success/failuer by this dimentions.
  
